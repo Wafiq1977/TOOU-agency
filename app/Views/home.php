@@ -10,8 +10,8 @@
 </head>
 <body>
     <!-- Fixed Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="#home">TOOU Agency</a>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="#home"><img src="/uploads/lambang (2).png" alt="Logo" style="height: 30px; width: auto;"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
         </button>
